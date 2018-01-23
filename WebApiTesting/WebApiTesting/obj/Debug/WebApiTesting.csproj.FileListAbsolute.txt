@@ -1,0 +1,14 @@
+C:\Piyush\WebApiTesting\WebApiTesting\bin\WebApiTesting.dll.config
+C:\Piyush\WebApiTesting\WebApiTesting\bin\WebApiTesting.dll
+C:\Piyush\WebApiTesting\WebApiTesting\bin\WebApiTesting.pdb
+C:\Piyush\WebApiTesting\WebApiTesting\bin\Newtonsoft.Json.dll
+C:\Piyush\WebApiTesting\WebApiTesting\bin\System.Net.Http.Formatting.dll
+C:\Piyush\WebApiTesting\WebApiTesting\bin\System.Web.Http.dll
+C:\Piyush\WebApiTesting\WebApiTesting\bin\System.Web.Http.WebHost.dll
+C:\Piyush\WebApiTesting\WebApiTesting\bin\Newtonsoft.Json.xml
+C:\Piyush\WebApiTesting\WebApiTesting\bin\System.Net.Http.Formatting.xml
+C:\Piyush\WebApiTesting\WebApiTesting\bin\System.Web.Http.xml
+C:\Piyush\WebApiTesting\WebApiTesting\bin\System.Web.Http.WebHost.xml
+C:\Piyush\WebApiTesting\WebApiTesting\obj\Debug\WebApiTesting.csprojResolveAssemblyReference.cache
+C:\Piyush\WebApiTesting\WebApiTesting\obj\Debug\WebApiTesting.dll
+C:\Piyush\WebApiTesting\WebApiTesting\obj\Debug\WebApiTesting.pdb
